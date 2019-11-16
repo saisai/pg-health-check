@@ -11,7 +11,6 @@ Postgres HTTP health check endpoint for Consul wirtten in Python.
 Arguments:
 
 ```
-  -h, --help            show this help message and exit
   -U USER, --user USER  Username to connect to the database.
   -P PASSWORD, --password PASSWORD
                         User password to connect to the database (optional).
